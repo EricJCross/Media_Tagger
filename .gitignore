@@ -1,0 +1,6 @@
+# Python virtual environment
+.venv/
+
+# Windows files
+Thumbs.db
+Desktop.ini

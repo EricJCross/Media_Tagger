@@ -1,0 +1,16 @@
+{
+"workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#001f61",  // Title bar color
+    "activityBar.foreground":    "#ffffff",  // Buttons on left-menu
+    "statusBar.background":      "#001f61",  // Bottom status bar color
+    "activityBar.background":    "#001f61",  // left menu background color
+    "gitDecoration.ignoredResourceForeground": "#555555"
+  },
+    "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+
+    "files.associations": {
+        "*.toml": "properties"
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt"
+}
